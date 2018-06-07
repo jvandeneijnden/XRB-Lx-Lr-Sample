@@ -1,4 +1,4 @@
-# XRB-Lx-Lr-Sample
+# Hard state X-ray binary sample of X-ray and radio luminosities
 X-ray and radio luminosity samples of hard-state neutron stars and black holes. The individual datafiles contain the datapoints for the neutron star and black hole sample (seperately). The additional PDF files contain the assumed source distances, notes on individual sources, distance references, and X-ray + radio flux references for each individual source. 
 
 This data sample is used in the following works:
