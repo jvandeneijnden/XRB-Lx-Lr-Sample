@@ -1,9 +1,10 @@
-# version: March 2018
+# version: June 2018
 # 
 # Hard state neutron star sample
 #
 # log_lx refers to 1-10 keV luminosity, log_lr to 5GHz luminosity
-# det column: # 1=detection, 0=non-detection in radio
+# det column: # 1=detection, 0=non-detection
+ in radio
 # last column contains source name and notes; see references pdf for more details and references.
 #
 # log_lx 	log_lr		det	src_nr 	#	src_name 
@@ -25,7 +26,7 @@
 #
 	36.05447274	28.84822906	0	5	#	4U 1705-440
 #
-	36.57382346	28.39268615	1	6	#	GS 1826-24 (clocked burster) 
+	36.57382346	28.39268615	1	6	#	GS 1826-24 (Clocked Burster) 
 #
 	36.08351254	28.32320211	0	7	#	4U1608-52
 #
@@ -51,7 +52,7 @@
 #
 	34.04050363	27.8350453	0	18	#	XMMU J174716.1-281048
 #
-	37.4323499	29.4645877	1	19	#	MXB 1730-335 (rapid burster, in Liller 1)
+	37.4323499	29.4645877	1	19	#	MXB 1730-335 (Rapid Burster, in Liller 1)
 	37.45268848	29.35878398	1	19	
 	37.69532083	29.41489992	1	19	
 #
@@ -90,7 +91,7 @@
 #
 	33.90669411	27.90301671	0	28	#	M15 X-3
 #
-	37.47712125	28.24646973	0	29	#	SAX J1748.9-2021 (in NGC 6440) = intermittent AMXP
+	37.47712125	28.24646973	0	29	#	SAX J1748.9-2021 (in NGC 6440) = Intermittent AMXP
 #
 	36.08831523	28.09197904	0	30	#	HETE J1900.1-2455 
 #
@@ -146,7 +147,7 @@
 #
 	36.49227963	28.91140894	0	37	#	Swift J0911.9-6452 (in NGC 2808)
 #
-	36.43		27.94		1	38	#	IGR J16597-3704 = new AMXP (Nov 2017)
+	36.43		27.94		1	38	#	IGR J16597-3704 = New AMXP (Nov 2017)
 	36.44		28.08		1	38	#
 #
 	33.97231777	27.47062832	1	39	#	XSS J12270-4859 
